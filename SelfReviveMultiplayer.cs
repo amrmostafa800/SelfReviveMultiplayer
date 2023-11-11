@@ -9,7 +9,7 @@ namespace SelfReviveMultiplayer
         public const string
             GUID = "SelfReviveMultiplayer",
             NAME = "SelfReviveMultiplayer",
-            VERSION = "1.0.1";
+            VERSION = "1.0.2";
 
         public void Awake()
         {
